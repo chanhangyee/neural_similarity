@@ -4,7 +4,7 @@ This is the repository of analysis materials related to the publication:
 
 > Chan, H.-Y., Smidts, A., Schoots, V.C., Dietvorst, R.C., Boksem, M.A.S., Neural similarity at temporal lobe and cerebellum predicts out-of-sample preference and recall for video stimuli, NeuroImage (2019), doi: https://doi.org/10.1016/j.neuroimage.2019.04.076
 
-In the `script` folder, you will find scripts used to produce analysis in the paper. The analysis begins with preprocessed data (i.e., normalized, smoothed and z-scored 4D volumes, segmented per stimulus per participant). Please contact the author ([chan@rsm.nl](mailto:chan@rsm.nl)) for the 4D volumes (Study 1a: 4.2G; Study 1b: 2.9G; Study 2: 4.6G).
+In the `script` folder, you will find scripts used to produce analysis in the paper. The analysis begins with preprocessed data (i.e., normalized, smoothed and z-scored 4D volumes, segmented per stimulus per participant). Please contact the author ([chan@rsm.nl](mailto:chan@rsm.nl)) for the segmented 4D volumes (Study 1a: 4.2G; Study 1b: 2.9G; Study 2: 4.6G).
 
 In the `output` folder, you will find the related output files.
 
