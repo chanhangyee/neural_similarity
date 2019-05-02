@@ -1,6 +1,6 @@
 # Neural similarity at temporal lobe and cerebellum predicts out-of-sample preference and recall for video stimuli
 
-This is the repository of analysis scripts related to the publication:
+This is the repository of analysis materials related to the publication:
 
 > Chan, H.-Y., Smidts, A., Schoots, V.C., Dietvorst, R.C., Boksem, M.A.S., Neural similarity at temporal lobe and cerebellum predicts out-of-sample preference and recall for video stimuli, NeuroImage (2019), doi: https://doi.org/10.1016/j.neuroimage.2019.04.076
 
@@ -8,4 +8,4 @@ In the `script` folder, you will find scripts used to produce analysis in the pa
 
 In the `output` folder, you will find the related output files.
 
-Note that this folder contains custom script for calculating neural similarity. For neural activation, standard software (SPM12) was used. Please contact the author ([chan@rsm.nl](mailto:chan@rsm.nl)) for output files associated with activation.
+Note that this repository contains only custom script for calculating neural similarity. For neural activation, standard software (SPM12) was used. Please contact the author ([chan@rsm.nl](mailto:chan@rsm.nl)) for output files associated with activation.
